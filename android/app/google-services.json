@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1008391515796",
+    "firebase_url": "https://micro-bus-381305-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "micro-bus-381305",
+    "storage_bucket": "micro-bus-381305.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008391515796:android:5605155d43bfaf018c8e81",
+        "android_client_info": {
+          "package_name": "com.example.firebase_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008391515796-ohf82e7f5b92c098tjt0oaanviff45ff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_tutorial",
+            "certificate_hash": "3381852dc9c89aa64d4fa7468f4d6ff28e7bf692"
+          }
+        },
+        {
+          "client_id": "1008391515796-eav4aq14m7ahp6le4g7cpgnvhq424r83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDztBFbfdTgX26j53o3ciiH1-UG7OjVGMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008391515796-eav4aq14m7ahp6le4g7cpgnvhq424r83.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1008391515796-qdritrpfng1thteb5ng8qfq0k42m7p7j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dumy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
